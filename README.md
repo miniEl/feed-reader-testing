@@ -4,7 +4,7 @@ This project is to test ,a web-based application that reads RSS feeds, using [Ja
 
 ## Table of Contents
 
-- [How to run the app](#how to run the app)
+- [How to run the app](#how-to-run-the-app)
 - [Dependencies](#dependencies)
 
 ## How to run the app
